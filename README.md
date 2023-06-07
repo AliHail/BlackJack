@@ -11,7 +11,7 @@ This project is a simplified implementation of the popular casino card game, Bla
 - Pseudorandom Shuffling: The program employs a pseudorandom shuffling algorithm to ensure card distribution and gameplay fairness.
 
 ## Date Published
-The project was published on 6/7/2023
+The project was published on 6/6/2023
 
 ## Author
 The project was created by me
